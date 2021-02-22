@@ -4,7 +4,7 @@
  * @description Simple plugin that adds the \"display game activity\" setting
  * on the home toolbar so you can toggle it easier when you don't want your friends knowing how much you play video games.
  *
- * @authorLink https://github.com/Egrodo
+ * @authorLink 
  * @source https://github.com/Egrodo/DiscordPlugins/blob/master/GameActivityToggle.plugin.js
  */
 /*@cc_on
